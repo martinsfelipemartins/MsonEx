@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MsonEx</string>
+    <string name="dire_o">Direção</string>
+    <string name="title_activity_filmes">FilmesActivity</string>
+</resources>
